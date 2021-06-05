@@ -1,0 +1,13 @@
+C:\Users\RASHED\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\RASHED\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\RASHED\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\RASHED\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\RASHED\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\RASHED\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\RASHED\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\SEAI\Desktop\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\SEAI\Desktop\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\SEAI\Desktop\ConsoleApp4\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\SEAI\Desktop\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+C:\Users\SEAI\Desktop\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\SEAI\Desktop\ConsoleApp4\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
